@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and build
 
 ## 🚀 About Me
 - 💻 I love programming and exploring new technologies.
-- 📚 Constantly learning and improving my skills (mainly JS).
-- 🎯 Focused on building OGFN Backends and OGFN Launchers.
+- 📚 Constantly learning and improving my skills (mainly C#).
+- 🎯 Focused on backend development
 
 ## 🔧 Technologies & Tools
 Here are some of the technologies I work with:
-- **Languages:** C#, JS, Some C++
+- **Languages:** C#, JavaScript, Go, Some C++
 - **Tools:** Git, VS Code, Visual Studio
